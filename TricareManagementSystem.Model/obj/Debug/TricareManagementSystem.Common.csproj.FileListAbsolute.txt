@@ -1,0 +1,5 @@
+D:\EMP666114\Mini Tricare Project\TricareManagementSystem\TricareManagementSystem.Model\bin\Debug\TricareManagementSystem.Model.dll
+D:\EMP666114\Mini Tricare Project\TricareManagementSystem\TricareManagementSystem.Model\bin\Debug\TricareManagementSystem.Model.pdb
+D:\EMP666114\Mini Tricare Project\TricareManagementSystem\TricareManagementSystem.Model\obj\Debug\TricareManagementSystem.Common.csprojResolveAssemblyReference.cache
+D:\EMP666114\Mini Tricare Project\TricareManagementSystem\TricareManagementSystem.Model\obj\Debug\TricareManagementSystem.Model.dll
+D:\EMP666114\Mini Tricare Project\TricareManagementSystem\TricareManagementSystem.Model\obj\Debug\TricareManagementSystem.Model.pdb

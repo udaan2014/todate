@@ -1,0 +1,9 @@
+D:\EMP666114\Mini Tricare Project\TricareManagementSystem\TricareManagementSystem.BusinessLogic\bin\Debug\TricareManagementSystem.BusinessLogic.dll
+D:\EMP666114\Mini Tricare Project\TricareManagementSystem\TricareManagementSystem.BusinessLogic\bin\Debug\TricareManagementSystem.BusinessLogic.pdb
+D:\EMP666114\Mini Tricare Project\TricareManagementSystem\TricareManagementSystem.BusinessLogic\bin\Debug\TricareManagementSystem.DataAccess.dll
+D:\EMP666114\Mini Tricare Project\TricareManagementSystem\TricareManagementSystem.BusinessLogic\bin\Debug\TricareManagementSystem.Model.dll
+D:\EMP666114\Mini Tricare Project\TricareManagementSystem\TricareManagementSystem.BusinessLogic\bin\Debug\TricareManagementSystem.DataAccess.pdb
+D:\EMP666114\Mini Tricare Project\TricareManagementSystem\TricareManagementSystem.BusinessLogic\bin\Debug\TricareManagementSystem.Model.pdb
+D:\EMP666114\Mini Tricare Project\TricareManagementSystem\TricareManagementSystem.BusinessLogic\obj\Debug\TricareManagementSystem.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\EMP666114\Mini Tricare Project\TricareManagementSystem\TricareManagementSystem.BusinessLogic\obj\Debug\TricareManagementSystem.BusinessLogic.dll
+D:\EMP666114\Mini Tricare Project\TricareManagementSystem\TricareManagementSystem.BusinessLogic\obj\Debug\TricareManagementSystem.BusinessLogic.pdb
